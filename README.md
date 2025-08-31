@@ -25,4 +25,4 @@ Python (pandas, numpy, backtrader), Pine Script (TradingView), basic experience 
 - `options-screener` — ideas for volatility-based option trades (not public yet)
 
 ### 📫 Reach me
-chiragkumar.patel@iitgn.ac.in | LinkedIn: [your-link-here]
+chiragkumar.patel@iitgn.ac.in | LinkedIn: [[LInkedin]([url](https://www.linkedin.com/in/chirag-patel-9797b7251/))]
